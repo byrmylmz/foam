@@ -1,4 +1,4 @@
-- [ ] df
+- [x] df
 - [ ] `dedik` neden bilmiyoruz 
 - [ ] `bu kisim onemli`
 - [ ] [[shortcut-list]] will be availbe
