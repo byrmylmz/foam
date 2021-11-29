@@ -1,1 +1,1 @@
-- [ ] Graphql notes [[graphql]]
+- [ ] [Graphql Notes ](graphql.md)
