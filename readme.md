@@ -1,1 +1,1 @@
-- [ ] [[graphql]]
+- [ ] Graphql notes [[graphql]]
