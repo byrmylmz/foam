@@ -1,7 +1,7 @@
 - [x] df
-- [ ] `dedik` neden bilmiyoruz 
-- [ ] `bu kisim onemli`
-- [ ] [[shortcut-list]] will be availbe
-- [ ] [[shortcut-list]] link ozelligi gercekten harika.
-- [ ] [test](docs/features/daily-notes.md)
+- [x] `dedik` neden bilmiyoruz 
+- [x] `bu kisim onemli`
+- [x] [[shortcut-list]] will be availbe
+- [x] [[shortcut-list]] link ozelligi gercekten harika.
+- [x] [test](docs/features/daily-notes.md)
 
