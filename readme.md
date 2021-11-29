@@ -1,2 +1,2 @@
 - [ ] [Graphql Notes ](graphql.md)
-- [ ] [[Models Notes](app/models/SampleModel.md)
+- [ ] [Models Notes](app/models/SampleModel.md)
