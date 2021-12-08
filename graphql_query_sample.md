@@ -20,7 +20,7 @@ type Query {
    ```
    
 # Create 
-```php
+```graphql
 mutation{
   createCategory(
     name:"deneme"
@@ -30,11 +30,19 @@ mutation{
 }
 ```
 # Update
-```php
+```graphql
 mutation{
   updateCategory(id:1, name:"new"){
     id
     name
+  }
+}
+```
+# query get data
+```graphql
+query{
+  books{
+    id
   }
 }
 ```
