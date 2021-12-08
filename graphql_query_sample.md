@@ -17,7 +17,7 @@ type Query {
     category(id: ID @eq): Category @find
    ```
    
-  # Create 
+# Create 
 ```php
 mutation{
   createCategory(
