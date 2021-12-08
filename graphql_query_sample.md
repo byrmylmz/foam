@@ -49,6 +49,16 @@ query{
 
 # query with boolean
 ```graphql
+// server
+query($featured: Boolean!) {
+  booksByFeatured(featured: $featured) {
+    id
+    title
+    author
+    image
+  }
+}
+//client graphql
 query{
   booksByFeatured(featured:true){
     id
