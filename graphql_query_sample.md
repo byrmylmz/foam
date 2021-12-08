@@ -17,4 +17,24 @@ type Query {
     category(id: ID @eq): Category @find
    ```
    
+  # Create 
+```php
+mutation{
+  createCategory(
+    name:"deneme"
+  ) {
+    name
+  }
+}
+```
+# Update
+```php
+mutation{
+  updateCategory(id:1, name:"new"){
+    id
+    name
+  }
+}
+```
+   
    
