@@ -46,5 +46,16 @@ query{
   }
 }
 ```
+
+# query with boolean
+```graphql
+query{
+  booksByFeatured(featured:true){
+    id
+    title
+    
+  }
+}
+```
    
    
