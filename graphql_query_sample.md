@@ -1,7 +1,11 @@
 
 [Github repo](https://github.com/byrmylmz/booksql-laravel/blob/ea44f377d7ba05a84566a9d3d611b980c3773331/graphql/schema.graphql#L7-L17)
 
->EndPoint http://project-name.test/graphql
+### Laravel Graphql Server Highlights
+- End Point Sample `http://project-name.test/graphql`
+- Sample >[Schema.graphql](https://github.com/byrmylmz/booksql-laravel/blob/674780e10950e95fde559053cc55c1a11a67c543/graphql/schema.graphql) Including Books Project
+- Sample Complex Query [SomeComplexQuery.php](https://github.com/byrmylmz/booksql-laravel/blob/674780e10950e95fde559053cc55c1a11a67c543/app/GraphQL/Queries/SomeComplexQuery.php)
+
 
 ```graphql
 type Query {
